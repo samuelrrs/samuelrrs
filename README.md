@@ -14,7 +14,7 @@ At now im working as a front-end developer, focused on React JS, but always look
 
 - Front-end developer 🦸‍♂️
 - Focused on React JS 💻
-- Always ready to learn something new ! 🌖
+- Always ready to learn something new ! 🚀🌖
 
 ## Languages and technologies : 
 
