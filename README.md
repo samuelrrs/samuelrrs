@@ -6,7 +6,7 @@
 
 
 
-## About me...
+## About me:
 
 I have always been passionate about technology and everything it can provide us. With that in mind, I aim to use it to help as many people as I can, and to bring solutions to everyday problems.
 
