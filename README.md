@@ -23,6 +23,7 @@ At now im working as a front-end developer, focused on React JS, but always look
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrrs&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
+***
 ## Languages and technologies : 
 
 ![Badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
