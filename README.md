@@ -4,7 +4,11 @@
 [![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-ribeiro-507386173/)
 [![Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelrrsouza@gmail.com)
 
-
+<div>
+  <a href="https://github.com/samuelrrs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelrrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrrs&layout=compact&langs_count=16&theme=dracula"/>
+<div>
 
 ## About me:
 
