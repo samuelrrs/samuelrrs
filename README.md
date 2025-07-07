@@ -11,7 +11,7 @@ I have always been passionate about technology and everything it can provide us.
 
 At now im working as a front-end developer, focused on React JS, but always looking to learn more and more!
 
-- Front-end developer 🦸‍♂️
+- Senior Front-end developer 🦸‍♂️
 - Focused on React JS 💻
 - Always ready to learn something new ! 🚀🌖
 
