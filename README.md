@@ -1,10 +1,6 @@
 # Hello there, I'm Samuel!  
 
 
-  
-[![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-ribeiro-507386173/)
-[![Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelrrsouza@gmail.com)
-  
 ## About me:
 
 I have always been passionate about technology and everything it can provide us. With that in mind, I aim to use it to help as many people as I can, and to bring solutions to everyday problems.
